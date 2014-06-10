@@ -1,5 +1,5 @@
 Project Pet Node - Easy management of pet information with food nutrition comparisons
-===========
+
 This application was built during an 8 day development cycle in languages and databases our group had no prior experience with. We used node.js server-side with an express 4 framework and mongodb as our database so we could use JSON from top to bottom for our data. 
 
 Team members:
